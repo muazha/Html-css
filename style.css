@@ -1,0 +1,50 @@
+#p {
+  border: 10px solid lime;
+  background-color: black;
+  width: 85%;
+  margin-left: 5%;
+}
+#n {
+  border: 5px solid white;
+  width: 90%;
+  margin-left: 4%;
+  font-size: 27px;
+  margin-bottom: 50px;
+  color: white;
+}
+h2 {
+  border: 5px solid white;
+  width: 90%;
+  margin-left: 4%;
+  margin-bottom: 50px;
+  color: white;
+}
+.m {
+  width: 89%;
+  border: 10px solid white;
+  margin-left: 4%;
+  margin-bottom: 50px;
+}
+p {
+  width: 89%;
+  margin-left: 4%;
+  margin-bottom: 40px;
+  color: white;
+}
+hr {
+  border: 3px solid white;
+  width: 91%;
+  margin-left: 4%;
+  margin-bottom: 50px;
+}
+#mn{
+  width: 100%;
+}
+.x {
+  width: 50px;
+  margin-left: 46%;
+}
+#oi{
+  background-color: black;
+  width: 100%;
+}
